@@ -1,0 +1,21 @@
+.container {
+    padding: 8px;
+    /* box-shadow: 3px 3px 11px 3px rgb( 0 0 0 / 32%); */
+    width: 100%;
+}
+
+.list {
+    width: 50%;
+    list-style: none;
+    display: flex;
+    justify-content: center;
+    margin: 5px auto;
+    padding: 0px;
+    /* margin-left: 0; */
+}
+
+.item {
+    margin: 0px 16px;
+    font-size: 18px;
+    font-weight: 500;
+}
